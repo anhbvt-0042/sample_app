@@ -11,6 +11,7 @@ vi:
   about: "Giới thiệu"
   contact: "Liên hệ"
   new: "Tin tức"
+  rails: "Ứng dụng mẫu ruby on rails"
   static_pages:
     home:
       home: "Trang chủ"

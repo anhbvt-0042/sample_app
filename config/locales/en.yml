@@ -11,6 +11,7 @@ en:
   about: "About"
   contact: "Contact"
   new: "News"
+  rails: "Ruby on Rails Tutorial Sample App"
   static_pages:
     home:
       home: "Home"
